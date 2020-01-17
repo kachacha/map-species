@@ -8,7 +8,7 @@
 
 - 安装依赖包 `pip install PyQt5 Pillow --upgrade --user`
 
-- 点击下载 [MapSpecies.exe](http://gitlab.zylliondata.local/zhangf/map-species/raw/master/dist/MapSpecies.exe)
+- 点击下载 [MapSpecies.exe](https://github.com/kachacha/map-species/releases/download/V1.0.0/MapSpecies.exe)
 
 - 双击文件运行
 
