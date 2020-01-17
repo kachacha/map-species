@@ -2,11 +2,11 @@
 
 图种编辑工具；可以将一些需要隐藏的文件使用图片隐藏，显示为图片，实际修改完后缀名后为被隐藏文件。
 
+项目使用依赖包： `pip install PyQt5 Pillow --upgrade --user`
+
 ## 使用方法
 
 > 使用提示：建议单个文件建立此种子，最好先压缩成压缩包，在建立种子文件，否则解种后文件可能乱码！
-
-- 安装依赖包 `pip install PyQt5 Pillow --upgrade --user`
 
 - 点击下载 [MapSpecies.exe](https://github.com/kachacha/map-species/releases/download/V1.0.0/MapSpecies.exe)
 
